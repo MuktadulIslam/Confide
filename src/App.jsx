@@ -25,6 +25,7 @@ const DemoDisablePrintScreen = () => {
       </p>
       <a href="https://www.codebrary.com" target="_blank" rel="noopener noreferrer">
         www.codebrary.com
+        
       </a>
     </div>
   );
